@@ -1,0 +1,6 @@
+{
+  "name": "Algorithomus",
+  "description": "App oficial e guia do universo Algorithomus e Mundo Torajo. Episódios, personagens, diário de mistérios de Verade, scanner de anomalias e quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
